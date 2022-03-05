@@ -1,6 +1,7 @@
 # Sistema_Transporte_Escolar
 
 Sistema no estilo CRUD de registro e modificação de clientes desenvolvido em Python utilizando a biblioteca PyQt5 para as interfaces gráficas e SQLite para o banco de dados
+
 Feito para ser usado como sistema local na empresa de transportes do meu pai.
 
 Próximas atualizações:
