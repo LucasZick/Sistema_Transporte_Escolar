@@ -182,7 +182,6 @@ def verificarAlunoMOD():
         cursor.execute(f'SELECT * FROM alunos WHERE codigo = {codigoAluno}')
         aluno = cursor.fetchall()
         banco.close()
-        print(aluno)
         telaAtualizarPessoa.label_aviso.setText('')
         if aluno[0][0] != '':
 
